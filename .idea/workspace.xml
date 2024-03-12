@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40ed953d-333c-43ec-a919-6e657799287e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonDataStructuresAndAlgo20240215.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_1_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_1_faktorial_explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_2_fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_3_fibo_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_4_fact_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_5_fibo_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1_recursion_6_multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_algo_1_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_algo_2_averager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_algo_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_algo_3_pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3_complexity_1_profiling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3_complexity_2_memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3_complexity_averager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_binary_search_1_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_binary_search_2_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_binary_search_3_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_binary_search_4_bisect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_binary_search_5_complexity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4binary_seach_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructure_0_overview_standard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_0_overview_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_0_overview_standard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_1_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_2_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_3_linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_datastructures_4_prioqueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_1_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_2_bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_3_insertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_4_quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_5_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_sorting_6_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_1_itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_concurrent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_dataclasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_extra_oop_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_datastructures_5_heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.prof" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_4binary_seach_2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cjE5nxg5N8x7r3b4SYR6cKBtG2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python._1_recursion_1_factorial.executor": "Run",
+    "Python._1_recursion_3_fibo_cache.executor": "Run",
+    "Python._2_algo_3.executor": "Run",
+    "Python._2_algo_3_pi.executor": "Run",
+    "Python._3_complexity_2_memory.executor": "Run",
+    "Python._4binary_seach_2.executor": "Run",
+    "Python._5_datastructure_0_overview_standard.executor": "Run",
+    "Python._5_datastructures_2_queue.executor": "Run",
+    "Python._6_sorting_2_bubble.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test_commands.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/libor/PycharmProjects/Python_modules/python_algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_algorithm" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python_algorithm" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="_3_complexity_2_memory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_3_complexity_2_memory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_4binary_seach_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_4binary_seach_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+      <option name="INTERPRETER_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Git/bin/bash.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._3_complexity_2_memory" />
+        <item itemvalue="Python._4binary_seach_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ed953d-333c-43ec-a919-6e657799287e" name="Changes" comment="" />
+      <created>1708616406350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708616406350</updated>
+      <workItem from="1708616408734" duration="15644000" />
+      <workItem from="1709143604325" duration="648000" />
+      <workItem from="1709145207023" duration="13142000" />
+      <workItem from="1709298147535" duration="24448000" />
+      <workItem from="1709414582793" duration="26007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_4binary_seach_2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_algorithm$_5_datastructure_0_overview_standard.coverage" NAME="_5_datastructure_0_overview_standard Coverage Results" MODIFIED="1709229270481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_1_recursion_3_fibo_cache.coverage" NAME="_1_recursion_3_fibo_cache Coverage Results" MODIFIED="1709108806992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_5_datastructures_2_queue.coverage" NAME="_5_datastructures_2_queue Coverage Results" MODIFIED="1710167858421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_2_algo_3.coverage" NAME="_2_algo_3 Coverage Results" MODIFIED="1709060996299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_3_complexity_2_memory.coverage" NAME="_3_complexity_2_memory Coverage Results" MODIFIED="1709219313992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$main.coverage" NAME="main Coverage Results" MODIFIED="1709660621670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_2_algo_3_pi.coverage" NAME="_2_algo_3_pi Coverage Results" MODIFIED="1709391043676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_6_sorting_2_bubble.coverage" NAME="_6_sorting_2_bubble Coverage Results" MODIFIED="1709626117854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_1_recursion_1_factorial.coverage" NAME="_1_recursion_1_factorial Coverage Results" MODIFIED="1709390789510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm$test_commands.coverage" NAME="test_commands Coverage Results" MODIFIED="1709392933207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/python_algorithm$_4binary_seach_2.coverage" NAME="_4binary_seach_2 Coverage Results" MODIFIED="1709217314952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
